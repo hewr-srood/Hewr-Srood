@@ -1,4 +1,4 @@
-### <h1>Hi there 👋 i'm Hewr a React and React Native developer, <br> feel free to check my repos and rate them.</h1>
+### <h1>Hi there 👋🏻 It's hewr 🤘🏻</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Hewr-Srood&&theme=prussian&show_icons=true" width="440">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hewr-Srood&&theme=prussian&show_icons=true" width="440">
 
