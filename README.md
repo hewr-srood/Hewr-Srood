@@ -1,6 +1,6 @@
 ### <h1>Hi there 👋🏻 It's hewr 🤘🏻</h1>
 <h1>🏆 GitHub Trophy</h1>
-<img src="https://github-profile-trophy.vercel.app/?username=hewr-srood&theme=chalk" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=hewr-srood&theme=chalk" width="80%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hewr-Srood&&theme=prussian&show_icons=true" width="440">
 
