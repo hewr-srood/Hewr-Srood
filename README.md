@@ -19,9 +19,12 @@
 <div>
 
 <img  align="center"  src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20porfile;Feel%20free%20to%20check%20my%20repos&center=true&width=380&height=45"  alt="greet"/>
+<div>
+    <img src="https://komarev.com/ghpvc/?username=hewr-srood&label=Profile%20views&color=0e75b6&style=flat" alt="LinkedIn Badge"/>
+</div>
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<a href="https://www.linkedin.com/in/hewr-srood">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ <a href="https://twitter.com/hewr_srood"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 </div>
 
