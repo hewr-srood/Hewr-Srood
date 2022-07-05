@@ -18,7 +18,7 @@
 
 <div>
 
-<img  align="center"  src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20porfile;Feel%20free%20to%20check%20my%20repos&center=true&width=380&height=45"  alt="greet"/>
+<img  align="center"  src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20profile;Feel%20free%20to%20check%20my%20repos&center=true&width=380&height=45"  alt="greet"/>
 <div>
     <img src="https://komarev.com/ghpvc/?username=hewr-srood&label=Profile%20views&color=0e75b6&style=flat" alt="LinkedIn Badge"/>
 </div>
