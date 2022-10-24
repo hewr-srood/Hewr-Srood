@@ -35,7 +35,7 @@
 </div>
 
 <h1 align="center">
-🏆 GitHub Trophy & Most Used Language
+🏆 GitHub Trophies & Most Used Language
 
 </h1>
 
@@ -43,11 +43,11 @@
 
 <div  align="left">
 
-<img  align="left"  src="https://github-profile-trophy.vercel.app/?username=hewr-srood&theme=chalk&no-frame&margin-h=15&margin-w=20&column=3"  width="45%"/>
+<img  align="left"  src="https://github-profile-trophy.vercel.app/?username=hewr-srood&theme=chalk&no-frame&margin-h=15&margin-w=20&column=3"  width="40%"/>
 
 </div>
 
-<div align="right" > <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hewr-Srood&&theme=prussian&show_icons=true" width="45%" />
+<div align="right" > <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hewr-Srood&&theme=prussian&show_icons=true" width="40%" />
 
 </div>
 
